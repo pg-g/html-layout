@@ -1,3 +1,6 @@
+in-class book style exercise: http://jsfiddle.net/4zgj4b50/
+
+
 html-layout
 ===========
 
